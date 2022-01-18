@@ -1,5 +1,8 @@
 package cell
 
-func Initcell() bool {return false}
+func InitCell() bool { return false }
 
 /*
+   INN-DATA --> FUNKSJON --> UT-DATA
+      ()        InitCell      etter InitCell()
+*/
